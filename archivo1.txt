@@ -1,2 +1,3 @@
 Hola futuros devs! ¿Cómo están?
-Realicé cambios en GitHub 👨‍💻💪
+Es un gusto compartir este espacio de aprendizaje con ustedes.
+La programación es un mundo.
